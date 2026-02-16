@@ -1,7 +1,7 @@
 👨‍🎓 Autor
 
-Jerson Vega
-Aprendiz en programación Python
+Jerson jesus vega naranjo
+Aprendiz en analisis y desarrollo de software
 
 ✨ Objetivo
 

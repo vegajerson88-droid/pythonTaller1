@@ -1,6 +1,6 @@
 👨‍🎓 Autor
 
-Jerson jesus vega naranjo
+Jerson Jesús Vega Naranjo
 Aprendiz en analisis y desarrollo de software
 
 ✨ Objetivo
